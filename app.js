@@ -13,9 +13,6 @@ console.log(apellido);
 const PI = 3.1416;
 console.log(PI);
 
-/**
- *Un comentario multinelea  
- * todo esto es un comentarion agregado aca
- */
 
 
+ 
