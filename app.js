@@ -2,17 +2,28 @@
 
 
 
-var nombre_usuario = "Antonio";
-console.log(nombre_usuario);
+let myName = "Jose Antonio ";
+let lastName = "Martinez Perez"
 
-let apellido = "Perez";
-
- apellido = "Martinez"
-console.log(apellido);
-
-const PI = 3.1416;
-console.log(PI);
+console.log(myName + "" + lastName);
 
 
+//numbers
+
+let numberS = 5.5;
+
+let numberT = 3.9;
+
+let result = numberS + numberT;
+console.log(result)
+
+let mult = (numberT * numberS);
+console.log(mult);
+
+let dogY = 26;
+let age = (dogY + 1) / 7;
+console.log(age)
+
+ //
 
  
